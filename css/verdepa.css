@@ -1,0 +1,112 @@
+*{
+    margin: 0;
+    padding: 0;
+    
+}
+#page-top{
+    color: #fff;
+    background-color: black;
+    background-repeat: no-repeat;
+    background-attachment: scroll;
+    background-position: center center;
+    background-size: cover;
+}
+
+.wrap{
+    max-width: 1400px;
+    width: 90%;
+    margin:auto;
+
+}
+header.wrap {
+    padding-top: 10.5rem;
+    padding-bottom: 6rem;
+
+}
+/*Categoria depa*/
+.category-list {
+    margin-top: 50px;
+    display: flex;
+    flex-direction: column;
+    width: 18%;
+}
+.category-list .categoryDepa{
+    display: block;
+    padding: 15px 50px;
+    margin-bottom: 10px;
+    background: #1d809f;
+    text-align: center;
+    color: #fff;
+}
+.category-list .ct_item-active{
+    background-color: #2d3e50;
+
+}
+.palabras{
+    background-color: darkcyan;
+    display: inline-block;
+    color: black;
+}
+/*Departamentos*/
+.depa-list{
+    width: 82%;
+    background-color: gray;
+    margin-top: 50px;
+    padding: 1% 1%;
+}
+.depa-item{
+    padding: 0% 0%;
+    background-color: violet;
+  
+    
+}
+.depa-itema{
+    background-color: wheat;
+}
+.tituloaa{
+    display: inline-block;
+    vertical-align: top;
+    margin-bottom: 25px;
+    width: 60%;
+    
+}
+.detail{
+    display: block;
+    width: 21.7%;
+    padding: 15px 0;
+    margin-bottom: 20px;
+    background-color: #1d809f!important;
+    text-align: center;
+    color: #fff; 
+    text-decoration: none;
+}
+
+
+.store-wrapper{
+    display: flex;
+    
+}
+.titulos, .palabras, .detail{
+    display: inline-block;
+    vertical-align: top;
+   
+}
+.fotoaa{
+    display: inline-block;
+  
+    
+}
+.texto{
+    display: inline;
+    background-color:red;
+
+    
+}
+.palabrasa{
+    display: inline-block;
+    background-color: yellow;
+    width: 80%; 
+}
+
+
+
